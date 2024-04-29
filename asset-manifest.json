@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4dc78799.css",
-    "main.js": "/portfolio/static/js/main.b3b39e91.js",
+    "main.css": "/portfolio/static/css/main.82c74b98.css",
+    "main.js": "/portfolio/static/js/main.d75c905f.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/avatar.png": "/portfolio/static/media/avatar.0e239d63e569d09b9981.png",
     "static/media/hangman_cap2.png": "/portfolio/static/media/hangman_cap2.16fab9eabfa55f6b7b26.png",
     "static/media/portfolio_cap2.png": "/portfolio/static/media/portfolio_cap2.6a286aeee68d7c29f82c.png",
     "static/media/lyk-brewing-co_cap2.png": "/portfolio/static/media/lyk-brewing-co_cap2.57b6e210fb5f94b63f6d.png",
+    "static/media/lyk-brewing-co_cap1.png": "/portfolio/static/media/lyk-brewing-co_cap1.d1863add0081f5476bbe.png",
+    "static/media/lyk-brewing-co_cap1.2.png": "/portfolio/static/media/lyk-brewing-co_cap1.2.03b423555a0d94adf377.png",
     "static/media/aboutme.png": "/portfolio/static/media/aboutme.0d378bd1863bf619b29f.png",
+    "static/media/portfolio_cap1.2.png": "/portfolio/static/media/portfolio_cap1.2.0d17fb2b5ccf0ce73213.png",
+    "static/media/portfolio_cap1.png": "/portfolio/static/media/portfolio_cap1.b13f3860d7216ecfcba4.png",
+    "static/media/hangman_cap1.png": "/portfolio/static/media/hangman_cap1.2c1676fae031393b9618.png",
+    "static/media/hangman_cap1.2.png": "/portfolio/static/media/hangman_cap1.2.2beb320f6c538292de00.png",
     "static/media/png-transparent-mysql.png": "/portfolio/static/media/png-transparent-mysql.ae547a6846685761c0ff.png",
     "static/media/gx-16494738.png": "/portfolio/static/media/gx-16494738.3268afec9ea3b2dda437.png",
     "static/media/file-type-sass.512x384.png": "/portfolio/static/media/file-type-sass.512x384.3a7e20160541c940f59f.png",
@@ -19,13 +25,17 @@
     "static/media/material-ui.512x406.png": "/portfolio/static/media/material-ui.512x406.1efd9441fb7815d22a43.png",
     "static/media/typescript_5968381.png": "/portfolio/static/media/typescript_5968381.ad4b500e95f24ffbc184.png",
     "static/media/js_5968292.png": "/portfolio/static/media/js_5968292.ee821069274ea4ac42ff.png",
+    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio/index.html",
-    "main.4dc78799.css.map": "/portfolio/static/css/main.4dc78799.css.map",
-    "main.b3b39e91.js.map": "/portfolio/static/js/main.b3b39e91.js.map",
+    "main.82c74b98.css.map": "/portfolio/static/css/main.82c74b98.css.map",
+    "main.d75c905f.js.map": "/portfolio/static/js/main.d75c905f.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dc78799.css",
-    "static/js/main.b3b39e91.js"
+    "static/css/main.82c74b98.css",
+    "static/js/main.d75c905f.js"
   ]
 }
