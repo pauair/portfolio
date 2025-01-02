@@ -6,6 +6,8 @@ import LYKWeb2 from '../assets/images/lyk-brewing-co_cap1.2.png'
 import HGMob from '../assets/images/hangman_cap2.png';
 import HGWeb from '../assets/images/hangman_cap1.png';
 import HGWeb2 from '../assets/images/hangman_cap1.2.png';
+import FTApp from '../assets/images/film-tracker_cap1.png';
+import FTApp2 from '../assets/images/film-tracker_cap2.png';
 import PFMob from '../assets/images/portfolio_cap2.png';
 import PFWeb from '../assets/images/portfolio_cap1.png';
 import PFWeb2 from '../assets/images/portfolio_cap1.2.png';
@@ -20,6 +22,14 @@ function Projects() {
             image: [LYKMob, LYKWeb, LYKWeb2],
             code: 'https://github.com/pauair/lyk-brewing-co',
             visit: 'https://pauair.github.io/lyk-brewing-co/',
+        },
+        {
+            name: 'FILM TRACKER',
+            description: 'Discover my movie tracker app project. I designed and developed features like advanced movie search, detailed movie info display, and a personalized watchlist for seamless movie organization. This project enhanced my expertise in React Native, API integration, and responsive UI design',
+            built: 'Built with React Native, Expo, JavaScript, and Tailwind CSS.',
+            image: [FTApp, FTApp2],
+            code: 'https://github.com/pauair/movies-app',
+            visit: '',
         },
         {
             name: 'HANGMAN GAME',
