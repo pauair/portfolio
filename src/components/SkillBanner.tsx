@@ -10,12 +10,12 @@ import SSIcon from '../assets/images/file-type-sass.512x384.png';
 import MUIcon from '../assets/images/material-ui.512x406.png';
 import BSIcon from '../assets/images/bootstrap.512x512.png';
 import SQLIcon from '../assets/images/png-transparent-mysql.png';
-import MDBIcon from '../assets/images/mongodb_original_logo_icon_146424.png';
-import NJSIcon from '../assets/images/file_type_node_icon_130301.png';
+// import MDBIcon from '../assets/images/mongodb_original_logo_icon_146424.png';
+// import NJSIcon from '../assets/images/file_type_node_icon_130301.png';
 
 
 const skills = [
-    HTMLIcon, JSIcon, TSIcon, NJSIcon, CIcon, GXIcon, CSSIcon, TWIcon, SSIcon, MUIcon, BSIcon, SQLIcon, MDBIcon,
+    HTMLIcon, TSIcon, JSIcon, CSSIcon, TWIcon, SSIcon, MUIcon, BSIcon, CIcon, GXIcon, SQLIcon
 ];
 
 function SkillBanner() {

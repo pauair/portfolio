@@ -12,7 +12,7 @@ function Contact() {
                         <Typography variant='body2' sx={{ paddingBottom: '1vw', fontFamily: 'monospace' }}>
                             Thank you for visiting my page. If you have any questions, suggestions, or just want to say hello, feel free to get in touch through the form or via my social media.
                         </Typography>
-                        <Typography variant='body2' sx={{ paddingBottom: '1vw', fontFamily: 'monospace' }}>
+                        <Typography variant='body2' sx={{ paddingBottom: '1vw', fontFamily: 'monospace', fontWeight:'bold' }}>
                             Your feedback is important to me. Excited to hear your ideas and collaborate with you.
                         </Typography>
                         <Typography variant='body2' sx={{ paddingBottom: '1vw', fontFamily: 'monospace' }}>
