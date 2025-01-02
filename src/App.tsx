@@ -1,6 +1,6 @@
 import Brightness4Icon from '@mui/icons-material/Brightness4Rounded';
 import Brightness7Icon from '@mui/icons-material/Brightness7Rounded';
-import { Box, CssBaseline, IconButton } from '@mui/material';
+import { Box, CssBaseline, IconButton, Tooltip } from '@mui/material';
 import { ThemeProvider, createTheme, useTheme } from '@mui/material/styles';
 import { purple, pink } from '@mui/material/colors';
 import React from 'react';
@@ -23,7 +23,7 @@ function App() {
       <CssBaseline />
       <Box minWidth={"90vw"} sx={{ textAlign: 'right', paddingTop: '0.7rem', paddingRight: '0.7rem' }}>
         <IconButton id="back-to-top-anchor" sx={{ ml: 1 }} onClick={colorMode.toggleColorMode} color="inherit">
-          {theme.palette.mode === 'dark' ? <Brightness7Icon /> : <Brightness4Icon />}
+          {theme.palette.mode === 'dark' ? <Tooltip title='Light mode' followCursor><Brightness7Icon /></Tooltip> : <Tooltip title='Dark mode' followCursor><Brightness4Icon /></Tooltip>}
         </IconButton>
       </Box>
       <Home />
