@@ -1,17 +1,17 @@
 import { Box, Card, CardMedia, Grid, useMediaQuery, useTheme } from '@mui/material';
-import CIcon from '../assets/images/c-512.png';
-import CSSIcon from '../assets/images/css-3_732190.png';
-import GXIcon from '../assets/images/gx-16494738.png';
-import HTMLIcon from '../assets/images/html-512.png';
-import JSIcon from '../assets/images/js_5968292.png';
-import TSIcon from '../assets/images/typescript_5968381.png';
-import TWIcon from '../assets/images/tailwind-css.512x307.png';
-import SSIcon from '../assets/images/file-type-sass.512x384.png';
-import MUIcon from '../assets/images/material-ui.512x406.png';
-import BSIcon from '../assets/images/bootstrap.512x512.png';
-import SQLIcon from '../assets/images/png-transparent-mysql.png';
-// import MDBIcon from '../assets/images/mongodb_original_logo_icon_146424.png';
-// import NJSIcon from '../assets/images/file_type_node_icon_130301.png';
+import CIcon from '../assets/images/c-512.webp';
+import CSSIcon from '../assets/images/css-3_732190.webp';
+import GXIcon from '../assets/images/gx-16494738.webp';
+import HTMLIcon from '../assets/images/html-512.webp';
+import JSIcon from '../assets/images/js_5968292.webp';
+import TSIcon from '../assets/images/typescript_5968381.webp';
+import TWIcon from '../assets/images/tailwind-css.512x307.webp';
+import SSIcon from '../assets/images/file-type-sass.512x384.webp';
+import MUIcon from '../assets/images/material-ui.512x406.webp';
+import BSIcon from '../assets/images/bootstrap.512x512.webp';
+import SQLIcon from '../assets/images/transparent-mysql.webp';
+// import MDBIcon from '../assets/images/mongodb_original_logo_icon_146424.webp';
+// import NJSIcon from '../assets/images/file_type_node_icon_130301.webp';
 
 
 const skills = [

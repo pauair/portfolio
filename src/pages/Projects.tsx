@@ -1,16 +1,16 @@
 import { Box } from '@mui/material';
 import CardProject from '../components/CardProject';
-import LYKMob from '../assets/images/lyk-brewing-co_cap2.png';
-import LYKWeb from '../assets/images/lyk-brewing-co_cap1.png';
-import LYKWeb2 from '../assets/images/lyk-brewing-co_cap1.2.png'
-import HGMob from '../assets/images/hangman_cap2.png';
-import HGWeb from '../assets/images/hangman_cap1.png';
-import HGWeb2 from '../assets/images/hangman_cap1.2.png';
-import FTApp from '../assets/images/film-tracker_cap1.png';
-import FTApp2 from '../assets/images/film-tracker_cap2.png';
-import PFMob from '../assets/images/portfolio_cap2.png';
-import PFWeb from '../assets/images/portfolio_cap1.png';
-import PFWeb2 from '../assets/images/portfolio_cap1.2.png';
+import LYKMob from '../assets/images/lyk-brewing-co_cap2.webp';
+import LYKWeb from '../assets/images/lyk-brewing-co_cap1.webp';
+import LYKWeb2 from '../assets/images/lyk-brewing-co_cap1.2.webp'
+import HGMob from '../assets/images/hangman_cap2.webp';
+import HGWeb from '../assets/images/hangman_cap1.webp';
+import HGWeb2 from '../assets/images/hangman_cap1.2.webp';
+import FTApp from '../assets/images/film-tracker_cap1.webp';
+import FTApp2 from '../assets/images/film-tracker_cap2.webp';
+import PFMob from '../assets/images/portfolio_cap2.webp';
+import PFWeb from '../assets/images/portfolio_cap1.webp';
+import PFWeb2 from '../assets/images/portfolio_cap1.2.webp';
 
 function Projects() {
 

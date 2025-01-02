@@ -1,7 +1,7 @@
 import { Avatar, Box, Paper, Typography, useMediaQuery, useTheme } from '@mui/material';
 import NavBar from '../components/NavBar';
 import ScrollTop from '../components/ScrollTop';
-import AboutmeAvatar from '../assets/images/aboutme.png'
+import AboutmeAvatar from '../assets/images/aboutme.webp';
 
 interface AppProps {
     window?: () => Window;

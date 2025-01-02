@@ -3,7 +3,7 @@ import { Avatar, Box, Typography, useMediaQuery, useTheme } from '@mui/material'
 import 'animate.css';
 import { useEffect, useState } from 'react';
 import ContactBar from '../components/ContactBar';
-import AvatarImg from '../assets/images/avatar.png';
+import AvatarImg from '../assets/images/avatar.webp';
 
 interface TypingEffectProps {
   text: string;
