@@ -25,7 +25,7 @@ function Projects() {
         },
         {
             name: 'FILM TRACKER',
-            description: 'Discover my movie tracker app project. I designed and developed features like advanced movie search, detailed movie info display, and a personalized watchlist for seamless movie organization. This project enhanced my expertise in React Native, API integration, and responsive UI design',
+            description: 'Discover my movie tracker app project. I designed and developed features like advanced movie search, detailed movie info display, and a personalized watchlist for seamless movie organization. This project enhanced my expertise in React Native, API integration, and responsive UI design.',
             built: 'Built with React Native, Expo, JavaScript, and Tailwind CSS.',
             image: [FTApp, FTApp2],
             code: 'https://github.com/pauair/movies-app',
@@ -42,7 +42,7 @@ function Projects() {
         {
             name: 'PORTFOLIO ',
             description: 'Explore my personal portfolio website—your current destination! This concise, one-page showcase of my work is crafted with a focus on user experience design and seamless navigation. It allows visitors to view my projects, learn more about me, and easily get in touch.',
-            built: 'Built with React, TypeScript, Material UI & CSS',
+            built: 'Built with React, TypeScript, Material UI & CSS.',
             image: [PFMob, PFWeb, PFWeb2],
             code: 'https://github.com/pauair/portfolio',
             visit: 'https://pauair.github.io/portfolio/',
